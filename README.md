@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mayanktiwari1212.mt)
 
 - 💬 Ask me about **DSA**
 
