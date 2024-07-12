@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mayanktiwari&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mayanktiwari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itzsimonriley" target="blank"><img src="https://img.shields.io/twitter/follow/mayanktiwari?logo=twitter&style=for-the-badge" alt="tiwarimaya_nk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devmayanktiwari" target="blank"><img src="https://img.shields.io/twitter/follow/mayanktiwari?logo=twitter&style=for-the-badge" alt="tiwarimaya_nk" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 and Blockchain**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@mayanktiwari1212.mt)
+- 📝 I regularly write articles on [Medium](https://medium.com/@devmayanktiwari)
 
 - 💬 Ask me about **DSA**
 
