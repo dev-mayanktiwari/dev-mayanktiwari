@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Mayank Tiwari</h1>
 <h3 align="center">commited to push problems.</h3>
 
-<img align="right" width="400" src="https://i.imgflip.com/8bas6q.jpg" title="made at imgflip.com"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mayanktiwari&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mayanktiwari" /> </p>
 
